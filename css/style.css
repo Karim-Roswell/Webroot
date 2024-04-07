@@ -1,0 +1,22 @@
+
+
+    body{
+        background-color: gray;
+    }
+        div {
+            border: solid;
+        }
+
+
+        @media only screen {
+
+            .col {
+                background-color: lightseagreen;
+            }
+        }
+
+
+        #second{ background-color: rgb(114, 220, 179);}
+
+       
+  
